@@ -2,7 +2,7 @@
 using namespace std;
 
 class Singleton {
-    static Singleton instance; // Declare the static instance
+    static Singleton instance;
     int num;
 
 public:
